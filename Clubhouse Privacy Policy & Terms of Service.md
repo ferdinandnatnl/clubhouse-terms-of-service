@@ -32,6 +32,8 @@
 2. We're not liable for the accuracy of club or event information posted by organizers.
 3. We're always working to improve Clubhouse, so we might add, change, or remove features occasionally.
 
-**Questions?**
+### Account Deletion
+If you wish to delete your account, you can do so by sending a request to our support team at tryclubhouse@gmail.com. Once we receive your request, we will permanently delete your account and all associated data within 30 days.
 
+**Questions?**
 Feel free to email us at [tryclubhouse@gmail.com](mailto:tryclubhouse@gmail.com).
