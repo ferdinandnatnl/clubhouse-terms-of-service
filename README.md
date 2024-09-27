@@ -1,4 +1,4 @@
-# Clubhouse Terms of Service and Privacy Policy
+# Clubhouse Privacy Policy & Terms of Service
 
 **Last updated: September 27, 2024**
 
