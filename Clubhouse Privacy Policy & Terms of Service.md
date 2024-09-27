@@ -22,7 +22,7 @@
 
 ### For Club Organizers
 
-1. You're Responsible for Your Content: If you organize a club, you're in charge of the content you post about your club and events.
+1. You're Responsible for Your Content, if you organize a club, you're in charge of the content you post about your club and events.
 2. We might remove content that goes against these terms or our community guidelines.
 3. By posting, you allow us to show your content to other Clubhouse users and promote your club or events within the app.
 
