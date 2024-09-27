@@ -5,16 +5,16 @@
 # Privacy Policy
 
 ### What We Collect
-- When you sign up, we collect your name and email to set up your account and keep in touch.
-- We note the clubs you followed and events you're interested in to personalize your experience and suggest things you might like.
+1. When you sign up, we collect your name and email to set up your account and keep in touch.
+2. We note the clubs you followed and events you're interested in to personalize your experience and suggest things you might like.
 
 ### How We Use Your Information
-- Your info helps us run your account smoothly and show you relevant content. For example, we'll suggest clubs based on your interests.
-- We'll send you important updates about your account or changes to our platform—but we promise not to spam you.
+1. Your info helps us run your account smoothly and show you relevant content. For example, we'll suggest clubs based on your interests.
+2. We'll send you important updates about your account or changes to our platform—but we promise not to spam you.
 
 ### How We Protect Your Information
-- We will never sell your personal data to advertisers or other third parties.
-- Your information is stored on secure servers, and only authorized personnel can access it.
+1. We will never sell your personal data to advertisers or other third parties.
+2. Your information is stored on secure servers, and only authorized personnel can access it.
 
 **Note**: If we make changes to this policy and you continue using the app, it means you accept the new terms.
 
