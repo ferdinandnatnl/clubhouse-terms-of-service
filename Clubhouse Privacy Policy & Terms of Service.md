@@ -10,7 +10,7 @@
 
 ### How We Use Your Information
 1. Your info helps us run your account smoothly and show you relevant content. For example, we'll suggest clubs based on your interests.
-2. We'll send you important updates about your account or changes to our platform—but we promise not to spam you.
+2. We'll send you important updates about your account or changes to our platform but we will not to spam you.
 
 ### How We Protect Your Information
 1. We will never sell your personal data to advertisers or other third parties.
