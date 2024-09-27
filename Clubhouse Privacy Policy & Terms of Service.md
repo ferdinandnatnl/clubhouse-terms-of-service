@@ -5,7 +5,7 @@
 # Privacy Policy
 
 ### What We Collect
-1. When you sign up, we collect your name and email to set up your account and keep in touch.
+1. When you sign up, we collect your name and email to set up your account.
 2. We note the clubs you followed and events you're interested in to personalize your experience and suggest things you might like.
 
 ### How We Use Your Information
