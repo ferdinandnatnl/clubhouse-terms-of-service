@@ -203,15 +203,6 @@ We do not guarantee the platform will always be available or error-free.
 
 We are not responsible for losses resulting from service interruptions.
 
-### Indemnity
-
-You agree to defend, indemnify, and hold harmless Clubhouse and its operators from any claims, damages, losses, liabilities, and expenses arising from:
-
-- your use of the platform
-- your content
-- events you organize
-- your violation of these Terms or applicable law
-
 ### Disclaimers
 
 Clubhouse is provided **as is** and **as available**.
@@ -242,12 +233,6 @@ We may suspend or terminate access if:
 - the service is discontinued
 
 You may stop using Clubhouse at any time.
-
-### Governing Law
-
-These Terms are governed by the laws of Malaysia.
-
-Any disputes will be subject to the jurisdiction of Malaysian courts.
 
 ### Changes to Terms
 
