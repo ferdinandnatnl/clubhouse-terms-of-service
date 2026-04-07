@@ -39,9 +39,8 @@ We only share what's necessary with these services for Clubhouse to work. We don
 7. Event details you submit (title, description, location, date, images) are visible to all Clubhouse users once approved.
 
 ### Disclaimers and Limitations
-1. We offer the app as it is and can't promise it'll always be perfect or available.
-2. We're not liable for the accuracy of club or event information posted by organizers.
-3. We're always working to improve Clubhouse, so we might add, change, or remove features occasionally.
+1. We're not liable for the accuracy of club or event information posted by organizers.
+2. We're always working to improve Clubhouse, so we might add, change, or remove features occasionally.
 
 ### Account Deletion
 You can delete your account at any time by emailing us at tryclubhouse@gmail.com. Once we receive your request, we will permanently delete your account and all associated data within 30 days.
