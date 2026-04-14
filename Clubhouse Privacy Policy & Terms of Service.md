@@ -9,7 +9,7 @@ Clubhouse is built to help people discover clubs and events more easily. This Pr
 ### Information We Collect
 
 #### **1. Account Information**
-When you sign up using Google, Discord, or Facebook, we receive basic account information from that provider, such as your **name**, **email address**, and **profile picture**. We use this to create and manage your Clubhouse account.
+When you sign up using Google or Discord, we receive basic account information from that provider, such as your **name**, **email address**, and **profile picture**. We use this to create and manage your Clubhouse account.
 
 #### **2. Activity on Clubhouse**
 We collect information related to how you use Clubhouse, including:
@@ -53,7 +53,7 @@ We only share information when necessary to operate Clubhouse.
 
 We may share limited data with:
 - **Supabase** — backend and database infrastructure
-- **Google, Discord, Facebook** — sign-in providers
+- **Google, Discord** — sign-in providers
 
 These services have their own privacy policies. We are not responsible for their practices outside Clubhouse.
 
@@ -85,8 +85,6 @@ If you request deletion, your data will be removed within **30 days**, unless re
 You can request deletion of your account at any time by emailing **tryclubhouse@gmail.com**.
 
 We will delete your account and associated data within **30 days**, subject to legal or operational requirements.
-
-If you signed up with Facebook, you may also remove Clubhouse from your Facebook settings. See our **Data Deletion Instructions** for details.
 
 ### Changes to This Privacy Policy
 
@@ -191,7 +189,7 @@ Users may delete their own comments where available.
 
 ### Third-Party Services
 
-Clubhouse relies on third-party services such as **Supabase**, **Google**, **Discord**, and **Facebook**.
+Clubhouse relies on third-party services such as **Supabase**, **Google**, and **Discord**.
 
 We are not responsible for their services, policies, or outages.
 
